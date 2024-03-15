@@ -75,10 +75,19 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "60a7cdc606b8b9a1c3dba0a29146aea5.jpg",
+        "file": "26-28.01 GAMEJAMMMM.png",
         "kind": "image",
         "metadata": "",
-        "name": "60a7cdc606b8b9a1c3dba0a29146aea5.jpg",
+        "name": "26-28.01 GAMEJAMMMM.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "21 lipca 2015.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "21 lipca 2015.jpg",
         "smoothed": true,
         "userAdded": false
       }
@@ -120,31 +129,15 @@
       "instances": [
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 777,
-          "layer": "",
-          "name": "NewSprite",
-          "persistentUuid": "d5484a09-9b05-4845-a339-fbe0b9ed4a41",
-          "width": 808,
-          "x": 1199,
-          "y": 631,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
-          "name": "NewSprite2",
-          "persistentUuid": "c25dbd6e-471b-42a6-a043-d128995da320",
+          "name": "NewSprite",
+          "persistentUuid": "1498523d-a157-4a3f-a634-b9cbedf28498",
           "width": 0,
-          "x": 643,
-          "y": 219,
-          "zOrder": 2,
+          "x": 697,
+          "y": 484,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -171,7 +164,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "2.png",
+                      "image": "21 lipca 2015.jpg",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -191,76 +184,16 @@
                             "y": 0
                           },
                           {
-                            "x": 4436,
+                            "x": 640,
                             "y": 0
                           },
                           {
-                            "x": 4436,
-                            "y": 3000
+                            "x": 640,
+                            "y": 480
                           },
                           {
                             "x": 0,
-                            "y": 3000
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "NewSprite2",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "60a7cdc606b8b9a1c3dba0a29146aea5.jpg",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 659,
-                            "y": 0
-                          },
-                          {
-                            "x": 659,
-                            "y": 403
-                          },
-                          {
-                            "x": 0,
-                            "y": 403
+                            "y": 480
                           }
                         ]
                       ]
@@ -277,9 +210,6 @@
         "children": [
           {
             "objectName": "NewSprite"
-          },
-          {
-            "objectName": "NewSprite2"
           }
         ]
       },
