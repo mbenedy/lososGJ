@@ -108,6 +108,15 @@
         "name": "Illustration.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "60a7cdc606b8b9a1c3dba0a29146aea5.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "60a7cdc606b8b9a1c3dba0a29146aea5.jpg",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -122,6 +131,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/untitled-scene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/main"
     }
   ],
   "externalEvents": [],
